@@ -1,13 +1,8 @@
 # 1-DoF Rocket Altitude Control System
 
 This repository contains a 1-Degree-of-Freedom (1-DoF) vertical rocket altitude control simulation modeled in MATLAB & Simulink.
-<img width="1920" height="1200" alt="controlled_graphic" src="https://github.com/user-attachments/assets/87bff8f0-b252-4d39-9aa7-4d83ed791ca2" />
-<img width="1920" height="1200" alt="simulink_diagram" src="https://github.com/user-attachments/assets/6fd9d679-c01f-488e-936a-3b103c153509" />
-
-
-
-
-
+<img width="1302" height="420" alt="WhatsApp Image 2026-09-18 at 23 52 30" src="https://github.com/user-attachments/assets/c9237c18-bf03-4521-8c67-43c93f98e5fb" />
+<img width="774" height="580" alt="WhatsApp Image 2026-09-18 at 23 53 03" src="https://github.com/user-attachments/assets/d6537fbe-7690-49df-aea2-015592beee5d" />
 
 
 ## System Parameters
